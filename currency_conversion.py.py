@@ -2,29 +2,30 @@
 #output the result
 currencies = ["Usd", "canadian_dollar", "euro", "swiss_franc", "indian_rupee", "brazilian_real", "chinese_yuan", "australia_dolla", "japan_yen", "british_pound", "rusian_ruble", "south_african_rand", "mexican_peso", "saudi_riyals", "turkish_lira", "south_korean_won", "singapore_dollar", "malaysia_ringgit","egypt_pound", "aregentine_peso", "kenyan_shilling", "ghanaian_cedi", "ugandan_shilling"]
 
-# russian_ruble = 14
-# south_african_rand = 42
-# mexican_peso = 53
-# saudi_riyals = 210
-# turkish_lira = 31
-# south_korean_won = 1
-# singapore_dollar = 567
-# malaysia_ringgit = 157
-# egypt_pound = 41.80
-# aregentine_peso = 4.18
-# kenyan_shilling = 5.73
-# ghanaian_cedi = 660.34
-# ugandan_shilling = 0.21
-# Usd = 1533
-# canadian_dollar = 1192
-# euro = 1703
-# swiss_franc = 1820
-# indian_rupee = 9
-# brazilian_real = 149
-# chinese_yuan = 112
-# australia_dollar = 985
-# japan_yen = 12
-# british_pound = 1966
+#get the currency rate in 1
+# 1 russian_ruble = 14 in naira
+# 1 south_african_rand = 42 in naira
+# 1 mexican_peso = 53 in naira
+# 1 saudi_riyals = 210 in naira
+# 1 turkish_lira = 31 in naira
+# 1 south_korean_won = 1 in naira
+# 1 singapore_dollar = 567 in naira
+# 1 malaysia_ringgit = 157 in naira
+# 1 egypt_pound = 41.80 in naira
+# 1 aregentine_peso = 4.18 in naira
+# 1 kenyan_shilling = 5.73 in naira
+# 1 ghanaian_cedi = 660.34 in naira
+# 1 ugandan_shilling = 0.21 in naira
+# 1 Usd = 1533 in naira
+# 1 canadian_dollar = 1192 in naira
+# 1 euro = 1703 in naira
+# 1 swiss_franc = 1820 in naira
+# 1 indian_rupee = 9 in naira
+# 1 brazilian_real = 149 in naira
+# 1 chinese_yuan = 112 in naira
+# 1 australia_dollar = 985 in naira
+# 1 japan_yen = 12 in naira
+# 1 british_pound = 1966 in naira
 
 
 print("There are twenty three (23) currencies listed above ")
