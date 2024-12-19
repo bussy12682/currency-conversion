@@ -2,7 +2,7 @@
 #output the result
 currencies = ["Usd", "canadian_dollar", "euro", "swiss_franc", "indian_rupee", "brazilian_real", "chinese_yuan", "australia_dolla", "japan_yen", "british_pound", "rusian_ruble", "south_african_rand", "mexican_peso", "saudi_riyals", "turkish_lira", "south_korean_won", "singapore_dollar", "malaysia_ringgit","egypt_pound", "aregentine_peso", "kenyan_shilling", "ghanaian_cedi", "ugandan_shilling"]
 
-# rusian_ruble = 14
+# russian_ruble = 14
 # south_african_rand = 42
 # mexican_peso = 53
 # saudi_riyals = 210
